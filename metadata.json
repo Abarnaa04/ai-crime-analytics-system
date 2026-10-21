@@ -1,0 +1,6 @@
+{
+  "name": "AI Crime Analytics System",
+  "description": "Professional AI Crime Analytics and Predictive Modeling System with interactive crime mapping, hotspot analysis, machine learning crime classification, risk trends, and real-time report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
